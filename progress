@@ -1,0 +1,4 @@
+in midiFractory.py,
+
+you were working on addTrackChunk.
+First sysex byte seems ok, next one is 0x70, which i don't know what track event that refers to
